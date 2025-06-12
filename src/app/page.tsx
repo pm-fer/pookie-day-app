@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import MessageComp from "./messageComp";
 import BottomSection from "./bottomSection";
-// @ts-expect-error
+// @ts-expect-errorr - bro please just let me compile it
 import confetti from "canvas-confetti";
 import Image from "next/image";
 
